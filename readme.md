@@ -7,7 +7,7 @@ This project aims to explore and experiment with various tools in the field of N
 *   [**Qdrant**](https://github.com/qdrant/qdrant): An open-source vector database for storing, indexing, and retrieving large amounts of data.
 *   [**Scikit-learn (sklearn)**](https://github.com/scikit-learn/scikit-learn): A widely-used machine learning library for Python that provides efficient algorithms for various tasks such as classification, regression, clustering, etc.
 *   [**Crew.ai**](https://github.com/crewAIInc/crewAI): Multi-agent librarty to tackle complex task. 
-*   [**Petals**](https://github.com/bigscience-workshop/petals): An open-source AI development framework that enables building and deploying large language models at home. 
+*   [**Petals**](https://github.com/bigscience-workshop/petals): An open-source AI development framework that enables building and deploying large language models at home, BitTorrent-style. 
 
 ## Goals
 
