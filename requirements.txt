@@ -14,6 +14,7 @@ decorator==5.1.1
 exceptiongroup==1.2.2
 executing==2.1.0
 frozenlist==1.4.1
+grandalf==0.8
 greenlet==3.1.1
 h11==0.14.0
 httpcore==1.0.6
@@ -59,6 +60,7 @@ pydantic-settings==2.5.2
 pydantic_core==2.23.4
 Pygments==2.18.0
 PyJWT==2.9.0
+pyparsing==3.2.0
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 pytz==2024.2
